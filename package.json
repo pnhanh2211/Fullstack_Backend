@@ -1,0 +1,22 @@
+{
+  "name": "backend-newbie",
+  "version": "1.0.0",
+  "description": "cho nguoi ngu hoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnhanh2211/Fullstack_Backend.git"
+  },
+  "author": "hoang anh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pnhanh2211/Fullstack_Backend/issues"
+  },
+  "homepage": "https://github.com/pnhanh2211/Fullstack_Backend#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
