@@ -2,14 +2,19 @@
   "name": "backend-newbie",
   "version": "1.0.0",
   "description": "cho nguoi ngu hoc",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pnhanh2211/Fullstack_Backend.git"
   },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
   "author": "hoang anh",
   "license": "ISC",
   "bugs": {
